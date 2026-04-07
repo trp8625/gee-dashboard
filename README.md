@@ -4,6 +4,8 @@ A Streamlit dashboard for agricultural field monitoring using Google Earth Engin
 
 Built as an extension of the crop health classification pipeline developed for an Earth observation startup focused on agricultural monitoring and deforestation detection.
 
+You can access it here: https://gee-dashboard-fsbujrzugxgyps4fybrqiv.streamlit.app/
+
 ## Features
 
 - **Vegetation health mapping** — NDVI + EVI weighted classification (Healthy / Moderate Stress / High Stress)
