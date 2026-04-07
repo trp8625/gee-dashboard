@@ -1,4 +1,4 @@
-# 🌱 Sentinel-2 Crop Health Monitor
+# Sentinel-2 Crop Health Monitor
 
 A Streamlit dashboard for agricultural field monitoring using Google Earth Engine and Sentinel-2 satellite imagery.
 
